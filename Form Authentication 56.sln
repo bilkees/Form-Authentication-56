@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form Authentication 56", "Form Authentication 56\Form Authentication 56.csproj", "{675E974F-9FA9-4789-98AC-C6C6730FE163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675E974F-9FA9-4789-98AC-C6C6730FE163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675E974F-9FA9-4789-98AC-C6C6730FE163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675E974F-9FA9-4789-98AC-C6C6730FE163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675E974F-9FA9-4789-98AC-C6C6730FE163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1D68A4-A3C0-44AA-8935-686B089295FE}
+	EndGlobalSection
+EndGlobal
